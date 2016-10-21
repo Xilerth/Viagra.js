@@ -1,0 +1,30 @@
+body{
+  width:100%;
+  height:2000px;
+  background:black;
+  
+}
+.windows{
+  color:white;
+   text-shadow: 1px 0 0 #000, -1px 0 0 #000, 0 1px 0 #000, 0 -1px 0 #000, 1px 1px #000, -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000;
+  font-size:19px;
+    display:none; 
+  -webkit-transition:font-size 3s; 
+  transition: font-size 3s;
+  position:absolute;
+  z-index:100;
+
+}
+
+.boton>div{
+  width:100px;
+  height:100px;
+  background:grey;
+}
+.boton>div:hover{
+  background:white;
+}
+
+.mouseoff{
+  cursor:none;
+}
