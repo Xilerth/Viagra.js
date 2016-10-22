@@ -5,9 +5,9 @@
 
 #JS
 ```sh
-viagriza(size value); //for size up!!!
+viagriza(size value); <!---  //for size up!!!--->
 
-desvigrarizar(); //for return to normal!! 
+desvigrarizar(); <!--- //for return to normal!! --->
 ```
 
 #HTML
