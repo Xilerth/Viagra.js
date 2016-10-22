@@ -5,7 +5,7 @@
   
 ###Necessary
   - JS:
-    http://viagra.comuf.com/js/viagra.min,js
+     http://viagra.comuf.com/js/viagra.min.js
     
   - Css:
     http://viagra.comuf.com/css/viagra.min.css
