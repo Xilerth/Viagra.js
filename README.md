@@ -1,7 +1,7 @@
 # Viagra.js
 
 ###Dependences 
-  -Font-awesome!
+  -Font-awesome!* [http://fontawesome.io/] [PlDb]
 
 #JS
 ```sh
