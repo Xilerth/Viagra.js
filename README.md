@@ -5,11 +5,11 @@
 
 #JS
 
-- for size up!!!
+- For size up!!!
 ```sh
 viagriza(size value); 
 ```
-- for return to normal!!
+- For return to normal!!
 
 ```sh
 desvigrarizar();  
