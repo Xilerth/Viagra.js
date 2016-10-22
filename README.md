@@ -1,2 +1,5 @@
 # Viagra.js
-Viagra.js
+
+viagrizalo(size value);
+
+desvigralizalo();
