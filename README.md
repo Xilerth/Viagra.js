@@ -4,10 +4,15 @@
   -Font-awesome! [http://fontawesome.io/]
 
 #JS
-```sh
-viagriza(size value); <!---  //for size up!!!--->
 
-desvigrarizar(); <!--- //for return to normal!! --->
+- for size up!!!
+```sh
+viagriza(size value); 
+```
+- for return to normal!!
+
+```sh
+desvigrarizar();  
 ```
 
 #HTML
