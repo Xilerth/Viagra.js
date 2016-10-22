@@ -4,10 +4,10 @@
   -Font-awesome! [http://fontawesome.io/]
   
 ###Necessary
-  - JS
+  -JS
     http://viagra.comuf.com/js/viagra.min,js
     
-  - Css
+  -Css
     http://viagra.comuf.com/css/viagra.min.css
 
 
